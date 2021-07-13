@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/club-futura-private/static/css/main.27b85ba6.chunk.css",
+    "main.js": "/club-futura-private/static/js/main.a0e68e35.chunk.js",
+    "main.js.map": "/club-futura-private/static/js/main.a0e68e35.chunk.js.map",
+    "runtime-main.js": "/club-futura-private/static/js/runtime-main.fa90c52c.js",
+    "runtime-main.js.map": "/club-futura-private/static/js/runtime-main.fa90c52c.js.map",
+    "static/css/2.dabeb0c4.chunk.css": "/club-futura-private/static/css/2.dabeb0c4.chunk.css",
+    "static/js/2.50914885.chunk.js": "/club-futura-private/static/js/2.50914885.chunk.js",
+    "static/js/2.50914885.chunk.js.map": "/club-futura-private/static/js/2.50914885.chunk.js.map",
+    "index.html": "/club-futura-private/index.html",
+    "static/css/2.dabeb0c4.chunk.css.map": "/club-futura-private/static/css/2.dabeb0c4.chunk.css.map",
+    "static/css/main.27b85ba6.chunk.css.map": "/club-futura-private/static/css/main.27b85ba6.chunk.css.map",
+    "static/js/2.50914885.chunk.js.LICENSE.txt": "/club-futura-private/static/js/2.50914885.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/club-futura-private/static/media/Caviar_Dreams_Bold-webfont.46b7eb53.woff",
+    "static/media/logo.6c16c9ec.png": "/club-futura-private/static/media/logo.6c16c9ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa90c52c.js",
+    "static/css/2.dabeb0c4.chunk.css",
+    "static/js/2.50914885.chunk.js",
+    "static/css/main.27b85ba6.chunk.css",
+    "static/js/main.a0e68e35.chunk.js"
+  ]
+}
